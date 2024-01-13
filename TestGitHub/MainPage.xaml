@@ -5,6 +5,7 @@
 
     <ScrollView>
         <VerticalStackLayout
+            BackgroundColor="LightYellow"
             Padding="30,0"
             Spacing="25">
             <Image
